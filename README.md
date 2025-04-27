@@ -1,10 +1,6 @@
 # SearchSpeedAnalyzer
 Interactive Streamlit app to compare and visualize search algorithm performance in real-time
 
-# Runtime Comparison of Search Algorithms
-
-Used Streamlit to compare the runtimes of different search algorithms
-
 # Prerequisities
 
 - Python
